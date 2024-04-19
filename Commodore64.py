@@ -21,7 +21,7 @@ cursor = cursors
 #Screen and Start Line Initialization
 pygame.init()
 screen = pygame.display.set_mode((395, 284))
-font = pygame.font.Font('C64.ttf', 8)
+font = pygame.font.Font('font.tff', 8)
 power = True
 input_status = True
 cassete = 'Unknown'
