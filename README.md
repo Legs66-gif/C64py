@@ -2,7 +2,7 @@
 A simple C64 Simulator in Python (Does not run actual software)
 
 Requires a font file named 'font.tff' to be placed in the main directory.
-I recommend "C64 Pro Mono" by Style64: style64.org/c64-truetype
+I recommend ["C64 Pro Mono" by Style64](style64.org/c64-truetype)
 
 
 ## Commands
