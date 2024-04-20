@@ -9,7 +9,7 @@ I recommend "C64 Pro Mono" by Style64: style64.org/c64-truetype
 | Command | Syntax | Description | Status |
 | --- | --- | --- | --- |
 | HELP | | Displays a short list of all commands and their descriptions. | :white_check_mark: |
-| PRINT | PRINT [<expression>] | Prints the following varible, whether a string, variable or numerical expression (Same Inputs as Python). | :white_check_mark: |
-| LOAD | LOAD ["<filename>" [,<device number>]] | Loads selected data or program file into memory variable, from where it can be ran. | Incomplete |
+| PRINT | PRINT [\<expression>] | Prints the following varible, whether a string, variable or numerical expression (Same Inputs as Python). | :white_check_mark: |
+| LOAD | LOAD ["\<filename>" [,\<device number>]] | Loads selected data or program file into memory variable, from where it can be ran. | Incomplete |
 | LIST | | Displays the data currently in the memory variable | :white_check_mark: |
 | RUN | | Runs basic program currently in the memory variable | :white_check_mark: |
